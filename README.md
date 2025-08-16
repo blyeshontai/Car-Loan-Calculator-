@@ -5,15 +5,17 @@ This project demonstrates **object-oriented programming fundamentals** such as v
 
 ## Features
 Takes input for:
-  - Loan amount  
-  - Loan length (in years)  
-  - Interest rate  
-  - Down payment
+- Loan amount  
+- Loan length (in years)  
+- Interest rate  
+- Down payment
+
 Validates inputs (e.g., non-negative values, loan length > 0)
+
 Calculates:
-  - Remaining balance  
-  - Loan term in months  
-  - Monthly payment (with and without interest)  
+- Remaining balance  
+- Loan term in months  
+- Monthly payment (with and without interest)  
 
 ## Example Output
 Car Loan: 10000
