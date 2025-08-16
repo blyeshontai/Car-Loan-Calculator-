@@ -8,8 +8,8 @@ Takes input for:
   - Loan amount  
   - Loan length (in years)  
   - Interest rate  
-  - Down payment  
-Validates inputs (e.g., non-negative values, loan length > 0)  
+  - Down payment
+Validates inputs (e.g., non-negative values, loan length > 0)
 Calculates:
   - Remaining balance  
   - Loan term in months  
@@ -26,7 +26,7 @@ Monthly payment is: 233
 
 
 ## How to Run
-1. Clone this repository: `git clone https://github.com/YOUR_USERNAME/car-loan-calculator.git`
+1. Clone this repository: `git clone https://github.com/blyeshontai/Car-Loan-Calculator-.git`
 2. Navigate into the project folder: `cd car-loan-calculator` 
 3. Compile the program: `javac Main.java`
 4. Run the program: `java Main`
