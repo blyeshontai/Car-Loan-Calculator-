@@ -2,7 +2,7 @@
 
 A **Java console application** that calculates the estimated monthly payment for a car loan.  
 This project demonstrates **object-oriented programming fundamentals** such as variables, conditionals, and arithmetic operations.
-
+---
 ## Features
 Takes input for:
 - Loan amount  
@@ -16,8 +16,9 @@ Calculates:
 - Remaining balance  
 - Loan term in months  
 - Monthly payment (with and without interest)  
-
+---
 ## Example Output
+```
 Car Loan: 10000
 Down Payment: 2000
 Your remaining balance is: 8000
@@ -25,10 +26,24 @@ Number of months: 36
 Monthly payment without interest: 222
 Interest: 11
 Monthly payment is: 233
-
+```
+---
 
 ## How to Run
 1. Clone this repository: `git clone https://github.com/blyeshontai/Car-Loan-Calculator-.git`
 2. Navigate into the project folder: `cd Car-Loan-Calculator` 
 3. Compile the program: `javac Main.java`
 4. Run the program: `java Main`
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+
+## Author
+
+Created by Shontai Blye – aspiring back-end developer
