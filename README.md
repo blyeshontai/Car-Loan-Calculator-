@@ -29,6 +29,6 @@ Monthly payment is: 233
 
 ## How to Run
 1. Clone this repository: `git clone https://github.com/blyeshontai/Car-Loan-Calculator-.git`
-2. Navigate into the project folder: `cd car-loan-calculator` 
+2. Navigate into the project folder: `cd Car-Loan-Calculator` 
 3. Compile the program: `javac Main.java`
 4. Run the program: `java Main`
