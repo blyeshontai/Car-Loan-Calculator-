@@ -1,22 +1,27 @@
-# Car Loan Payment Calculator
+# Car Loan Payment Calculator (Java)
 
-A **Java console application** that calculates the estimated monthly payment for a car loan.  
-This project demonstrates **object-oriented programming fundamentals** such as variables, conditionals, and arithmetic operations.
+A Java console application that calculates the estimated monthly payment for a car loan. 
+This project demonstrates object-oriented programming fundamentals such as variables, conditionals, and arithmetic operations. 
+
 ---
+
 ## Features
-Takes input for:
+
+**Takes input for:**
 - Loan amount  
 - Loan length (in years)  
 - Interest rate  
 - Down payment
 
-Validates inputs (e.g., non-negative values, loan length > 0)
+**Validates inputs** (e.g., non-negative values, loan length > 0)
 
-Calculates:
+**Calculates:**
 - Remaining balance  
 - Loan term in months  
-- Monthly payment (with and without interest)  
+- Monthly payment (with and without interest)
+
 ---
+
 ## Example Output
 ```
 Car Loan: 10000
@@ -43,7 +48,8 @@ This project is licensed under the MIT License.
 
 ---
 
-
 ## Author
 
 Created by Shontai Blye – aspiring back-end developer
+
+---
